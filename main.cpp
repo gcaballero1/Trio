@@ -47,7 +47,7 @@ greatest = G;
 mid = R;
 least = B;
 }
-else if (G>=R && B>=B && B>=R)
+else if (G>=R && G>=B && B>=R)
 {
 greatest = G;
 mid = B;
